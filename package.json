@@ -9,6 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@capacitor/android": "^8.3.0",
+    "@capacitor/cli": "^8.3.0",
+    "@capacitor/core": "^8.3.0",
+    "@capacitor/haptics": "^8.0.2",
+    "@capacitor/local-notifications": "^8.0.2",
+    "@supabase/supabase-js": "^2.106.2",
     "next": "16.2.3",
     "react": "19.2.4",
     "react-dom": "19.2.4"
